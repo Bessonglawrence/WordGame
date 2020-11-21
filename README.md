@@ -1,6 +1,6 @@
 # WordGame
 
-A new Flutter project.
+A game in which semi-random funny questions are generated and you can choose to make and save the most funny ones.
 
 ## Getting Started
 
